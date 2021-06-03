@@ -1,0 +1,9 @@
+
+=============================================================================== 
+HOW TO USE
+================================================================================
+Files Password is:123
+0. Disable antivirus if needed [Mostly it's not needed]
+1. Install Program "idman632build11.exe" (remove any previous patch).
+2. Run "32bit Patch build 11.exe" or "64bit Patch build 11.exe" and install it according to  your windows version
+3. Done, enjoy, share, like, and support us.
